@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ketan&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ketan&#39;s Blog</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 May 2025 17:21:30 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How My Laziness Led to Building PR-bot: Automating Pull Requests with AI</title>
+      <link>http://localhost:1313/posts/how-my-laziness-led-to-building-pr-bot-automating-pull-requests-with-ai/</link>
+      <pubDate>Mon, 19 May 2025 17:21:30 +0800</pubDate>
+      <guid>http://localhost:1313/posts/how-my-laziness-led-to-building-pr-bot-automating-pull-requests-with-ai/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Laziness is the mother of invention.&amp;rdquo; — someone probably said that, and I wholeheartedly agree.&lt;/p&gt;
+&lt;h2 id=&#34;the-lazy-developers-dilemma&#34;&gt;The Lazy Developer&amp;rsquo;s Dilemma&lt;/h2&gt;
+&lt;p&gt;As a developer, I&amp;rsquo;ve always sought ways to minimize repetitive tasks. Not out of disgust for work, but because I believe in working smarter, not harder. One task that consistently disrupted my flow was creating pull requests (PRs). The process felt like a chore: selecting commits, writing descriptions, ensuring all checks passed, and finally, creating the PR. It was a series of steps that, while necessary, pulled me away from the creative aspects of coding.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

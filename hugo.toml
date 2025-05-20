@@ -1,0 +1,24 @@
+baseURL = "https://ketanmujumdar.github.io/"
+languageCode = "en-us"
+title = "Ketan's Blog"
+theme = "PaperMod"
+
+[params]
+  author = "Ketan"
+  defaultTheme = "auto" # or "dark", "light"
+
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Hi, I’m Ketan — an engineering leader and product-minded technologist. I enjoy building tools, simplifying complex systems, and sharing insights from my journey across startups, tech, and everything in between."
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
